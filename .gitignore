@@ -1,3 +1,7 @@
+dwm
+config.h
+patches.h
+
 # Dolphin file manager file
 .directory
 
